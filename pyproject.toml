@@ -1,0 +1,12 @@
+[project]
+name = "indexing-pipeline"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.13.5",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.29",
+    "pypdf>=6.0.0",
+]
